@@ -1,12 +1,12 @@
 # FreeAgentScheduleSystem 坐席智能排班系统
-Agent scheduling, intelligent scheduling, call center scheduling, customer service system scheduling, holiday scheduling, Call Center, Contact Center, contact center scheduling, artificial intelligence duty, continuous optimization of human resource allocation,坐席排班，智能排班，呼叫中心排班，客服系统排班，假期排班，Call Center, Contact Center，联络中心排班，人工智能值班，持续优化人力配置!!!
+Agent scheduling, intelligent scheduling, call center scheduling, customer service system scheduling, holiday scheduling, Call Center, Contact Center, contact center scheduling, artificial intelligence duty, continuous optimization of human resource allocation,坐席排班，智能排班，呼叫中心排班，客服系统排班，假期排班，Call Center, Contact Center，联络中心排班，人工智能值班，持续优化人力配置!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
 致力于成为：1，大模型呼叫中心系统、大模型呼入、大模型呼出、电话机器人、客服机器人、坐席辅助、智能呼叫中心系统、大模型智能客服系统；2，开源呼叫中心系统、开源客服系统；3，视频呼叫中心系统、视频客服系统；4，全渠道客服系统、在线客服系统等客户服务、企业获客方面的全球领导者！
 
-## 📫 How to reach us（截止2025.05.25，FreeAgentSchedule坐席智能排班系统还在迭代ing）:
+## 📫 How to reach us（截止2025.05.26，FreeAgentSchedule坐席智能排班系统还在迭代ing）:
 - 官方WeChat:freeipcc
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
@@ -111,6 +111,7 @@ http://124.220.48.38:80
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+![image](https://github.com/user-attachments/assets/966def5f-ac6a-489b-bb00-692739f679e7)
 
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
