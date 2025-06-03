@@ -110,7 +110,7 @@ http://124.220.48.38:80
 
 下图是随机抽取的需求对接的群：
 
-![image](https://github.com/user-attachments/assets/f54377fd-0812-4098-9ed2-39287e9ec6b6)
+![image](https://github.com/user-attachments/assets/0fe3a8ea-b4e5-4822-b7dc-64432c3ba237)
 ![image](https://github.com/user-attachments/assets/e6bfee9e-0c4c-451d-87a5-1c056444ce30)
 ![image](https://github.com/user-attachments/assets/be73edc1-999b-472f-b950-e1bf7266c7a0)
 ![image](https://github.com/user-attachments/assets/3bd34af5-6a5c-447c-8f38-cd2b0520957a)
