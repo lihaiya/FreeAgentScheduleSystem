@@ -23,6 +23,7 @@ Agent scheduling, intelligent scheduling, call center scheduling, customer servi
 ## 📫 How to reach us（截止2025.06.29，FreeAgentSchedule坐席智能排班系统还在迭代ing）:
 - 官方WeChat01:freeipcc
 - 官方WeChat02:freeaicc
+- 官方WeChat03:easyaicc
 - Whatsapp：Click <a href="https://api.whatsapp.com/send?phone=+8615700176897&text=Hello">WhatsApp</a> to Chat
 - Email:leehear@gmail.com
 
