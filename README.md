@@ -1,7 +1,10 @@
 # FreeAgentScheduleSystem 坐席智能排班系统
-Agent scheduling, intelligent scheduling, call center scheduling, customer service system scheduling, holiday scheduling, Call Center, Contact Center, contact center scheduling, artificial intelligence duty, continuous optimization of human resource allocation,坐席排班，智能排班，呼叫中心排班，客服系统排班，假期排班，Call Center, Contact Center，联络中心排班，人工智能值班，持续优化人力配置!!!
+Agent scheduling, intelligent scheduling, call center scheduling, customer service system scheduling, holiday scheduling, Call Center, Contact Center, contact center scheduling, artificial intelligence duty, continuous optimization of human resource allocation,坐席排班，智能排班，呼叫中心排班，客服系统排班，假期排班，Call Center, Contact Center，联络中心排班，人工智能值班，持续优化人力配置!
 
 # 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
+## 😄为什么使用大语言模型呼叫中心？真正解决“ASR+NLP+TTS”时代的痛点，让AI真正可用！
+![image](https://github.com/user-attachments/assets/da9ac236-e43b-4b87-8c2a-22068f2a91c8)
+
 ## 😄代码完整性：前端、后端、数据库，齐全！全开、不设限！不分什么社区版、商业版！
 ## 😄功能完整性：话务系统，工单系统，IM在线客服系统，录音系统，功能齐全、不设限！
 ## 😄持续性：2014年至今持续迭代，成员来自Cisco、Avaya、大唐电信、华为、FreeSWITCH等生态企业，长期主义！
