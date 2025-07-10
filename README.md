@@ -35,8 +35,8 @@ Agent scheduling, intelligent scheduling, call center scheduling, customer servi
 注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
 ![image](https://github.com/user-attachments/assets/ffe370af-5e5f-4132-a891-cb9005e7479b)
 
-## 开发语言：Java,Vue,Python,SpringBoot！
-业务模块Java为主；智能模块Python为主。
+## 开发语言：Java,Vue,SpringBoot！
+业务模块Java为主。
 
 # FreeAgentSchedule 坐席智能排班系统的愿景与基础功能阐述
 
